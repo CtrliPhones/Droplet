@@ -5,6 +5,8 @@ An advanced accent color picker for macOS
 
 Current Stage: Pick accent colors for individual apps, if that's all you want out of this tool (Excluding iMac colors), feel free to test drive Beta 2 now.
 
+The final release will be open source, supporing macOS 13.0 Ventura and later. Now *when* will the final release happen? Good luck.
+
 ### Resources & Inspiration:
 
 https://mahdi.jp/apps/accents - Really cool app to use the iMac's accent colors on any Mac with a simple UI
