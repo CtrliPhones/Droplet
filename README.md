@@ -1,8 +1,9 @@
 # Aquifer
-![A screenshot of the Aquifer application running on a Mac inside of a window](https://github.com/forcequitOS/Aquifer/blob/main/Progress.png?raw=true)
+![A screen recording of the Aquifer application running on a Mac inside of a window](https://github.com/forcequitOS/Aquifer/blob/main/ProgressTwo.gif?raw=true)
+
 An advanced accent color picker for macOS
 
-Current Stage: System-wide accent color picker and detecting the current accent color. 
+Current Stage: Pick accent colors for individual apps, if that's all you want out of this tool (Excluding iMac colors), feel free to test drive Beta 2 now.
 
 ### Resources & Inspiration:
 
