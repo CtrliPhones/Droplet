@@ -1,5 +1,5 @@
 # Aquifer
-![A screen recording of the Aquifer application running on a Mac inside of a window](https://github.com/forcequitOS/Aquifer/blob/main/ProgressTwo.gif?raw=true)
+![A screen recording of the Aquifer application running on a Mac inside of a window](https://github.com/forcequitOS/Aquifer/blob/main/ProgressTwoPointOne.gif?raw=true)
 
 An advanced accent color picker for macOS
 
