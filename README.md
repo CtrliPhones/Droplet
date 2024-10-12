@@ -1,9 +1,9 @@
 # Aquifer
-![A screen recording of the Aquifer application running on a Mac inside of a window](https://github.com/forcequitOS/Aquifer/blob/main/ProgressTwoPointOne.gif?raw=true)
+![A screen recording of the Aquifer application running on a Mac next to Mist and System Settings, showing how Mist's accent colors change after being selected in Aquifer](https://github.com/forcequitOS/Aquifer/blob/main/ProgressTwoPointOne.gif?raw=true)
 
-An advanced accent color picker for macOS
+A soon-to-be-released "advanced" accent picker for macOS
 
-Current Stage: Pick accent colors for individual apps, if that's all you want out of this tool (Excluding iMac colors), feel free to test drive Beta 2 now.
+Current Stage: Pick accent colors for individual apps, if that's all you want out of this tool (Excluding iMac colors), feel free to test drive [Beta 2](https://github.com/forcequitOS/Aquifer/releases/tag/beta2) now (and make sure to give me feedback!).
 
 The final release will be open source, supporing macOS 13.0 Ventura and later. Now *when* will the final release happen? Good luck.
 
