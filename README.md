@@ -21,3 +21,5 @@ https://apple.stackexchange.com/questions/466985/is-there-a-way-to-set-macos-acc
 You all have my official stamp of approval.
 
 This project used to be called Aquifer, but I since renamed it to Aquira.... since why not, I guess.
+
+This project truthfully is a stopgap for something better that either myself or hopefully someone else will write. I already have plans to use the general knowledge I'm learning with Aquira to make a future, more general-purpose tool that kinda acts as a per-app version of System Settings, called Preferential right now, but that'll be something for another day.
